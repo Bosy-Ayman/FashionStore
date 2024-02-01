@@ -5,7 +5,7 @@
 <h1>Administrator</h1> 
 
 ![image](https://github.com/PoussyAyman/FashionStore/assets/112729185/88ad134d-4c28-4c55-ad4d-4ad20bd3d63b)
-<h2>Option 1 </h2>
+<h2>Option 6 : Employee </h2>
 
 ![image](https://github.com/PoussyAyman/FashionStore/assets/112729185/5021ef62-fe8d-4e8e-b894-b9e549075651)
 <h3>Option 1 </h3>
